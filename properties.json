@@ -4342,8 +4342,250 @@
         {
             "id": "neural",
             "centrelines": [
-                
+                {
+                    "id": "vagus_n-1",
+                    "connects": [
+                        "point_1",
+                        "ganglion_1-1"
+                    ],
+                    "contained-in": [
+                        "vagus"
+                    ]
+                },
+                {
+                    "id": "vagus_n-2",
+                    "connects": [
+                        "ganglion_1-1",
+                        "ganglion_2-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n-3",
+                    "connects": [
+                        "ganglion_2-1",
+                        "point_2"
+                    ]
+                },
+                {
+                    "id": "vagus_n-4",
+                    "connects": [
+                        "point_2",
+                        "point_3"
+                    ]
+                },
+                {
+                    "id": "vagus_n-5",
+                    "connects": [
+                        "point_3",
+                        "point_4"
+                    ]
+                },
+                {
+                    "id": "vagus_n-6",
+                    "connects": [
+                        "point_4",
+                        "point_5"
+                    ]
+                },
+                {
+                    "id": "vagus_n-7",
+                    "connects": [
+                        "point_5",
+                        "point_6"
+                    ]
+                },
+                {
+                    "id": "vagus_n-8",
+                    "connects": [
+                        "point_6",
+                        "point_7"
+                    ]
+                },
+                {
+                    "id": "vagus_n-9",
+                    "connects": [
+                        "point_7",
+                        "point_8"
+                    ]
+                },
+                {
+                    "id": "vagus_n-10",
+                    "connects": [
+                        "point_8",
+                        "point_9"
+                    ]
+                },
+                {
+                    "id": "vagus_n-11",
+                    "connects": [
+                        "point_9",
+                        "point_10"
+                    ]
+                },
+                {
+                    "id": "vagus_n-12",
+                    "connects": [
+                        "point_10",
+                        "point_11"
+                    ]
+                },
+                {
+                    "id": "vagus_n-13",
+                    "connects": [
+                        "point_11",
+                        "point_12"
+                    ]
+                },
+                {
+                    "id": "vagus_n-14",
+                    "connects": [
+                        "point_12",
+                        "point_13"
+                    ]
+                },
+                {
+                    "id": "vagus_n-15",
+                    "connects": [
+                        "point_13",
+                        "point_14"
+                    ]
+                },
+                {
+                    "id": "vagus_n-16",
+                    "connects": [
+                        "point_14",
+                        "point_15"
+                    ]
+                },
+                {
+                    "id": "n_1",
+                    "connects": [
+                        "point_1",
+                        "plexus_7-1"
+                    ]
+                },
+                {
+                    "id": "n_2",
+                    "connects": [
+                        "ganglion_3-1",
+                        "plexus_7-1"
+                    ]
+                },
+                {
+                    "id": "n_3",
+                    "connects": [
+                        "ganglion_1-1",
+                        "point_16"
+                    ],
+                    "contained-in": [
+                        "vagus_14"
+                    ]
+                },
+                {
+                    "id": "n_4",
+                    "connects": [
+                        "ganglion_1-1",
+                        "label_1-1"
+                    ],
+                    "contained-in": [
+                        "vagus_11"
+                    ]
+                },
+                {
+                    "id": "n_5",
+                    "connects": [
+                        "ganglion_2-1",
+                        "point_17"
+                    ]
+                },
+                {
+                    "id": "n_6",
+                    "connects": [
+                        "point_18",
+                        "point_20"
+                    ],
+                    "contained-in": [
+                        "vagus_2"
+                    ]
+                },
+                {
+                    "id": "n_7",
+                    "connects": [
+                        "point_19",
+                        "point_21"
+                    ],
+                    "contained-in": [
+                        "vagus_3"
+                    ]
+                },
+                {
+                    "id": "n_8",
+                    "connects": [
+                        "point_17",
+                        "label_2-1"
+                    ],
+                    "contained-in": [
+                        "vagus_4"
+                    ]
+                },
+                {
+                    "id": "n_9",
+                    "connects": [
+                        "point_17",
+                        "label_3-1"
+                    ],
+                    "contained-in": [
+                        "vagus_5"
+                    ]
+                },
+                {
+                    "id": "n_10",
+                    "connects": [
+                        "point_17",
+                        "label_4-1"
+                    ],
+                    "contained-in": [
+                        "vagus_6"
+                    ]
+                },
+                {
+                    "id": "n_11",
+                    "connects": [
+                        "plexus_7-1",
+                        "point_22"
+                    ],
+                    "contained-in": [
+                        "bolser_102"
+                    ]
+                },
+                {
+                    "id": "n_12",
+                    "connects": [
+                        "point_22",
+                        "point_23"
+                    ]
+                },
+                {
+                    "id": "n_13",
+                    "connects": [
+                        "point_22",
+                        "point_24"
+                    ],
+                    "contained-in": [
+                        "bolser_103"
+                    ]
+                },
+                {
+                    "id": "n_14",
+                    "connects": [
+                        "ganglion_3-1",
+                        "plexus_1-1"
+                    ],
+                    "contained-in": [
+                        "ECN"
+                    ]
+                }
             ]
         }
     ]
-},
+}
