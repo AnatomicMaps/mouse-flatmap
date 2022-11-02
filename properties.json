@@ -4458,6 +4458,192 @@
                     ]
                 },
                 {
+                    "id": "PVN_1",
+                    "models": "UBERON:0000929",
+                    "connects": [
+                        "point_2",
+                        "point_26"
+                    ],
+                    "contained-in": [
+                        "point_25",
+                        "pharyngeal_vagus_1"
+                    ]
+                },
+                {
+                    "id": "PVN_2",
+                    "models": "ILX:0791434",
+                    "connects": [
+                        "point_26",
+                        "point_27"
+                    ],
+                    "contained-in": [
+                        "pharyngeal_vagus_2"
+                    ]
+                },
+                {
+                    "id": "PVN_3",
+                    "models": "ILX:0790524",
+                    "connects": [
+                        "point_26",
+                        "point_28"
+                    ],
+                    "contained-in": [
+                        "pharyngeal_vagus_3"
+                    ]
+                },
+                {
+                    "id": "SLN_1",
+                    "models": "UBERON:0011326",
+                    "connects": [
+                        "point_4",
+                        "point_32"
+                    ],
+                    "contained-in": [
+                        "point_31",
+                        "superior_laryngeal_1"
+                    ]
+                },
+                {
+                    "id": "SLN_2",
+                    "connects": [
+                        "point_32",
+                        "point_33"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_2"
+                    ]
+                },
+                {
+                    "id": "SLN_3",
+                    "connects": [
+                        "point_32",
+                        "point_34"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_3"
+                    ]
+                },
+                {
+                    "id": "SLN_4",
+                    "connects": [
+                        "point_33",
+                        "point_35"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_5"
+                    ]
+                },
+                {
+                    "id": "SLN_5",
+                    "connects": [
+                        "point_33",
+                        "point_36"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_4"
+                    ]
+                },
+                {
+                    "id": "SLN_6",
+                    "connects": [
+                        "point_35",
+                        "point_37"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_13"
+                    ]
+                },
+                {
+                    "id": "SLN_7",
+                    "connects": [
+                        "point_35",
+                        "point_38"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_10"
+                    ]
+                },
+                {
+                    "id": "SLN_8",
+                    "connects": [
+                        "point_35",
+                        "point_39"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_11"
+                    ]
+                },
+                {
+                    "id": "SLN_9",
+                    "connects": [
+                        "point_35",
+                        "point_40"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_12"
+                    ]
+                },
+                {
+                    "id": "SLN_10",
+                    "connects": [
+                        "point_36",
+                        "point_41"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_17"
+                    ]
+                },
+                {
+                    "id": "SLN_11",
+                    "connects": [
+                        "point_36",
+                        "point_42"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_6"
+                    ]
+                },
+                {
+                    "id": "SLN_12",
+                    "connects": [
+                        "point_36",
+                        "point_43"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_7"
+                    ]
+                },
+                {
+                    "id": "SLN_13",
+                    "connects": [
+                        "point_36",
+                        "point_44"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_8"
+                    ]
+                },
+                {
+                    "id": "SLN_14",
+                    "connects": [
+                        "point_36",
+                        "point_45"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_9"
+                    ]
+                },
+                {
+                    "id": "SLN_15",
+                    "connects": [
+                        "point_34",
+                        "plexus_2-1"
+                    ],
+                    "contained-in": [
+                        "superior_laryngeal_16"
+                    ]
+                },
+                {
                     "id": "n_1",
                     "connects": [
                         "point_1",
@@ -4473,6 +4659,7 @@
                 },
                 {
                     "id": "n_3",
+                    "models": "FMA:6233",
                     "connects": [
                         "ganglion_1-1",
                         "point_16"
@@ -4483,6 +4670,7 @@
                 },
                 {
                     "id": "n_4",
+                    "models": "FMA:6231",
                     "connects": [
                         "ganglion_1-1",
                         "label_1-1"
@@ -4493,6 +4681,7 @@
                 },
                 {
                     "id": "n_5",
+                    "models": "FMA:6232",
                     "connects": [
                         "ganglion_2-1",
                         "point_17"
@@ -4500,6 +4689,7 @@
                 },
                 {
                     "id": "n_6",
+                    "models": "ILX:0786624",
                     "connects": [
                         "point_18",
                         "point_20"
@@ -4510,6 +4700,7 @@
                 },
                 {
                     "id": "n_7",
+                    "models": "ILX:0791151",
                     "connects": [
                         "point_19",
                         "point_21"
@@ -4520,6 +4711,7 @@
                 },
                 {
                     "id": "n_8",
+                    "models": "ILX:0784868",
                     "connects": [
                         "point_17",
                         "label_2-1"
@@ -4530,6 +4722,7 @@
                 },
                 {
                     "id": "n_9",
+                    "models": "ILX:0785937",
                     "connects": [
                         "point_17",
                         "label_3-1"
@@ -4540,6 +4733,7 @@
                 },
                 {
                     "id": "n_10",
+                    "models": "ILX:0788968",
                     "connects": [
                         "point_17",
                         "label_4-1"
@@ -4550,6 +4744,7 @@
                 },
                 {
                     "id": "n_11",
+                    "models": "UBERON:0001650",
                     "connects": [
                         "plexus_7-1",
                         "point_22"
@@ -4567,6 +4762,7 @@
                 },
                 {
                     "id": "n_13",
+                    "models": "ILX:0738315",
                     "connects": [
                         "point_22",
                         "point_24"
@@ -4583,6 +4779,38 @@
                     ],
                     "contained-in": [
                         "ECN"
+                    ]
+                },
+                {
+                    "id": "n_15",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_25"
+                    ]
+                },
+                {
+                    "id": "n_16",
+                    "connects": [
+                        "point_3",
+                        "point_30"
+                    ],
+                    "contained-in": [
+                        "point_29",
+                        "vagus_8"
+                    ]
+                },
+                {
+                    "id": "n_17",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_29"
+                    ]
+                },
+                {
+                    "id": "n_18",
+                    "connects": [
+                        "ganglion_3-1",
+                        "point_31"
                     ]
                 }
             ]
