@@ -5320,6 +5320,84 @@
                         "vagus_13"
                     ]
                 },
+                {
+                    "id": "ardell_6",
+                    "connects": [
+                        "ardell-6_point-1",
+                        "ardell-6_point-2",
+                        "ardell-6_point-3",
+                        "ardell-6_point-4",
+                        "ardell-6_point-5",
+                        "ardell-6_point-6",
+                        "ardell-6_point-7",
+                        "ardell-6_point-8",
+                        "ardell-6_point-9",
+                        "ardell-6_point_branching_point"
+                    ]
+                },
+                {
+                    "id": "SCG-ardell_6",
+                    "connects": [
+                        "ganglion_3-1",
+                        "ardell-6_point-1"
+                    ]
+                },
+                {
+                    "id": "MCG-ardell_6",
+                    "connects": [
+                        "ganglion_9-1",
+                        "ardell-6_point-2"
+                    ]
+                },
+                {
+                    "id": "ICG-ardell_6",
+                    "connects": [
+                        "ganglion_10-1",
+                        "ardell-6_point-3"
+                    ]
+                },
+                {
+                    "id": "T1-ardell_6",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell-6_point-4"
+                    ]
+                },
+                {
+                    "id": "T2-ardell_6",
+                    "connects": [
+                        "T2_spinal",
+                        "ardell-6_point-5"
+                    ]
+                },
+                {
+                    "id": "T3-ardell_6",
+                    "connects": [
+                        "T3_spinal",
+                        "ardell-6_point-6"
+                    ]
+                },
+                {
+                    "id": "T4-ardell_6",
+                    "connects": [
+                        "T4_spinal",
+                        "ardell-6_point-7"
+                    ]
+                },
+                {
+                    "id": "T5-ardell_6",
+                    "connects": [
+                        "T5_spinal",
+                        "ardell-6_point-8"
+                    ]
+                },
+                {
+                    "id": "T6-ardell_6",
+                    "connects": [
+                        "T6_spinal",
+                        "ardell-6_point-9"
+                    ]
+                },
 
 
 
