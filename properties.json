@@ -5072,7 +5072,7 @@
                 },
                 {
                     "id": "RLN_1",
-                    "models": "ILX:0787615",
+                    "models": "UBERON:0003716",
                     "connects": [
                         "vagus_point_5",
                         "RLN_point_1"
@@ -5426,7 +5426,7 @@
                 {
                     "id": "splanchnic_great",
                     "models": "UBERON:0018680",
-                    "conects": [
+                    "connects": [
                         "splanchnic_point-5",
                         "splanchnic_point-6",
                         "splanchnic_point-7",
@@ -5890,13 +5890,6 @@
                     "connects": [
                         "C8_spinal",
                         "ardell_1_point-3"
-                    ]
-                },
-                {
-                    "id": "T1_ardell-1",
-                    "connects": [
-                        "T1_spinal",
-                        "ardell_1_point-4"
                     ]
                 },
                 {
