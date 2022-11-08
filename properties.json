@@ -1526,10 +1526,9 @@
             "models": "ILX:0739297",
             "name": "sixth lumbar sympathetic ganglion"
         },
-        "S66_S1": {
+        "S46_S1": {
             "models": "ILX:0789109",
-            "name": "First sacral ganglion",
-            "comment": "Id should be S46_S1"
+            "name": "First sacral ganglion"
         },
         "S46_S2": {
             "models": "ILX:0789655",
@@ -4504,13 +4503,13 @@
                     "models": "ILX:0777093",
                     "connects": [
                         "S46_L6",
-                        "S66_S1"
+                        "S46_S1"
                     ]
                 },
                 {
                     "id": "sympathetic_trunk_S1-S2",
                     "connects": [
-                        "S66_S1",
+                        "S46_S1",
                         "S46_S2"
                     ]
                 },
@@ -4951,7 +4950,7 @@
                     ]
                 },
                 {
-                    "id": "SLN-16",
+                    "id": "SLN_16",
                     "connects": [
                         "SLN_point_4",
                         "respiratory_11-1"
@@ -5332,7 +5331,7 @@
                         "ardell-6_point-7",
                         "ardell-6_point-8",
                         "ardell-6_point-9",
-                        "ardell-6_point_branching_point"
+                        "ardell-6_branching_point"
                     ]
                 },
                 {
@@ -5402,14 +5401,14 @@
                     "id": "MCG-ardell_2",
                     "connects": [
                         "ganglion_9-1",
-                        "ardell_2_branching-point"
+                        "ardell-2_branching_point"
                     ]
                 },
                 {
                     "id": "ICG-ardell_2",
                     "connects": [
                         "ganglion_10-1",
-                        "ardell_2_branching-point"
+                        "ardell-2_branching_point"
                     ]
                 },
                 {
@@ -5634,6 +5633,7 @@
                 },
                 {
                     "id": "pudendal",
+                    "models": "UBERON:0011390",
                     "connects": [
                         "pudendal_point_1",
                         "pudendal_branching_point"
@@ -5950,6 +5950,88 @@
                     ]
                 },
                 {
+                    "id": "L1-spinal_lumbar",
+                    "connects": [
+                        "L1_spinal",
+                        "lumbar_branching_point"
+                    ]
+                },
+                {
+                    "id": "L2-spinal_lumbar",
+                    "connects": [
+                        "L2_spinal",
+                        "lumbar_branching_point"
+                    ]
+                },
+                {
+                    "id": "lumbar_splanchnic_n",
+                    "models": "UBERON:0018683",
+                    "connects": [
+                        "lumbar_branching_point",
+                        "ganglion_5-1"
+                    ],
+                    "contained-in": [
+                        "lumbar_splanchnic"
+                    ]
+                },
+                {
+                    "id": "lumbar_c",
+                    "connects": [
+                        "ganglion_5-1",
+                        "LCN_branching_point"
+                    ],
+                    "contained-in": [
+                        "LCN"
+                    ]
+                },
+                {
+                    "id": "L6_pelvic",
+                    "connects": [
+                        "L6_spinal",
+                        "pelvic_branching_point"
+                    ]
+                },
+                {
+                    "id": "S1_pelvic",
+                    "connects": [
+                        "S1_spinal",
+                        "pelvic_branching_point"
+                    ]
+                },
+                {
+                    "id": "pelvic_splanchnic_n",
+                    "models": "UBERON:0018675",
+                    "connects": [
+                        "pelvic_branching_point",
+                        "ganglion_5-1"
+                    ],
+                    "contained-in": [
+                        "pelvic_splanchnic"
+                    ]
+                },
+                {
+                    "id": "hypogastric_n",
+                    "models": "UBERON:0005303",
+                    "connects": [
+                        "ganglion_5-1",
+                        "ganglion_4-1"
+                    ],
+                    "contained-in": [
+                        "hypogastric"
+                    ]
+                },
+                {
+                    "id": "bladder_n",
+                    "models": "ILX:0793559",
+                    "connects": [
+                        "ganglion_4-1",
+                        "bladder_n_branching_point"
+                    ],
+                    "contained-in": [
+                        "bladder_nerve"
+                    ]
+                },
+                {
                     "id": "n_1",
                     "connects": [
                         "point_1",
@@ -5994,7 +6076,7 @@
                 {
                     "id": "n_7",
                     "connects": [
-                        "point_15",
+                        "vagus_point_12",
                         "ganglion_19-1"
                     ]
                 },
