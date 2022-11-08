@@ -5398,16 +5398,564 @@
                         "ardell-6_point-9"
                     ]
                 },
+                {
+                    "id": "MCG-ardell_2",
+                    "connects": [
+                        "ganglion_9-1",
+                        "ardell_2_branching-point"
+                    ]
+                },
+                {
+                    "id": "ICG-ardell_2",
+                    "connects": [
+                        "ganglion_10-1",
+                        "ardell_2_branching-point"
+                    ]
+                },
+                {
+                    "id": "splanchnic_n",
+                    "models": "UBERON:0003715",
+                    "connects": [
+                        "splanchnic_point-1",
+                        "splanchnic_point-2",
+                        "splanchnic_point-3",
+                        "splanchnic_point-4",
+                        "splanchnic_point-5"
+                    ]
+                },
+                {
+                    "id": "splanchnic_great",
+                    "models": "UBERON:0018680",
+                    "conects": [
+                        "splanchnic_point-5",
+                        "splanchnic_point-6",
+                        "splanchnic_point-7",
+                        "splanchnic_point-8",
+                        "splanchnic_point-9"
+                    ]
+                },
+                {
+                    "id": "splanchnic_less",
+                    "models": "UBERON:0018681",
+                    "connects": [
+                        "splanchnic_point-9",
+                        "splanchnic_point-10",
+                        "splanchnic_point-11",
+                        "splanchnic_point-12"
+                    ]
+                },
+                {
+                    "id": "splanchnic_least",
+                    "models": "UBERON:0001964",
+                    "connects": [
+                        "splanchnic_point-12",
+                        "splanchnic_point-13",
+                        "splanchnic_point-14",
+                        "splanchnic_branching_point"
+                    ],
+                    "contained-in": [
+                        "splanchnic"
+                    ]
+                },
+                {
+                    "id": "T1_splanchnic",
+                    "connects": [
+                        "T1_spinal",
+                        "splanchnic_point-1"
 
+                    ]
+                },
+                {
+                    "id": "T2_splanchnic",
+                    "connects": [
+                        "T2_spinal",
+                        "splanchnic_point-2"
+                    ]
+                },
+                {
+                    "id": "T3_splanchnic",
+                    "connects": [
+                        "T3_spinal",
+                        "splanchnic_point-3"
+                    ]
+                },
+                {
+                    "id": "T4_splanchnic",
+                    "connects": [
+                        "T4_spinal",
+                        "splanchnic_point-4"
+                    ]
+                },
 
-
-
-
-
-
-
-
-
+                {
+                    "id": "T5_splanchnic",
+                    "connects": [
+                        "T5_spinal",
+                        "splanchnic_point-5"
+                    ]
+                },
+                {
+                    "id": "T6_splanchnic",
+                    "connects": [
+                        "T6_spinal",
+                        "splanchnic_point-6"
+                    ]
+                },
+                {
+                    "id": "T7_splanchnic",
+                    "connects": [
+                        "T7_spinal",
+                        "splanchnic_point-7"
+                    ]
+                },
+                {
+                    "id": "T8_splanchnic",
+                    "connects": [
+                        "T8_spinal",
+                        "splanchnic_point-8"
+                    ]
+                },
+                {
+                    "id": "T9_splanchnic",
+                    "connects": [
+                        "T9_spinal",
+                        "splanchnic_point-9"
+                    ]
+                },
+                {
+                    "id": "T10_splanchnic",
+                    "connects": [
+                        "T10_spinal",
+                        "splanchnic_point-10"
+                    ]
+                },
+                {
+                    "id": "T11_splanchnic",
+                    "connects": [
+                        "T11_spinal",
+                        "splanchnic_point-11"
+                    ]
+                },
+                {
+                    "id": "T12_splanchnic",
+                    "connects": [
+                        "T12_spinal",
+                        "splanchnic_point-12"
+                    ]
+                },
+                {
+                    "id": "T13_splanchnic",
+                    "connects": [
+                        "T13_spinal",
+                        "splanchnic_point-13"
+                    ]
+                },
+                {
+                    "id": "L1_splanchnic",
+                    "connects": [
+                        "L1_spinal",
+                        "splanchnic_point-14"
+                    ]
+                },
+                {
+                    "id": "T1_ardell-5",
+                    "connects": [
+                        "S46_T1",
+                        "ardell_5_point-1"
+                    ]
+                },
+                {
+                    "id": "T2_ardell-5",
+                    "connects": [
+                        "S46_T2",
+                        "ardell_5_point-2"
+                    ]
+                },
+                {
+                    "id": "T3_ardell-5",
+                    "connects": [
+                        "S46_T3",
+                        "ardell_5_point-3"
+                    ]
+                },
+                {
+                    "id": "T4_ardell-5",
+                    "connects": [
+                        "S46_T4",
+                        "ardell_5_point-4"
+                    ]
+                },
+                {
+                    "id": "T5_ardell-5",
+                    "connects": [
+                        "S46_T5",
+                        "ardell_5_point-5"
+                    ]
+                },
+                {
+                    "id": "T6_ardell-5",
+                    "connects": [
+                        "S46_T6",
+                        "ardell_5_point-6"
+                    ]
+                },
+                {
+                    "id": "ardell_5",
+                    "connects": [
+                        "ardell_5_point-1",
+                        "ardell_5_point-2",
+                        "ardell_5_point-3",
+                        "ardell_5_point-4",
+                        "ardell_5_point-5",
+                        "ardell_5_point-6",
+                        "ardell_5_branching_point"
+                    ]
+                },
+                {
+                    "id": "L5_pudendal",
+                    "connects": [
+                        "L5_spinal",
+                        "pudendal_point_1"
+                    ]
+                },
+                {
+                    "id": "L6_pudendal",
+                    "connects": [
+                        "L6_spinal",
+                        "pudendal_point_1"
+                    ]
+                },
+                {
+                    "id": "S1_pudendal",
+                    "connects": [
+                        "S1_spinal",
+                        "pudendal_point_1"
+                    ]
+                },
+                {
+                    "id": "pudendal",
+                    "connects": [
+                        "pudendal_point_1",
+                        "pudendal_branching_point"
+                    ],
+                    "contained-in": [
+                        "pudendal_n"
+                    ]
+                },
+                {
+                    "id": "C3_dorsal_root",
+                    "connects": [
+                        "C3_spinal",
+                        "spinal_3-1/C3_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_C3"
+                    ]
+                },
+                {
+                    "id": "C4_dorsal_root",
+                    "connects": [
+                        "C4_spinal",
+                        "spinal_4-1/C4_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_C4"
+                    ]
+                },
+                {
+                    "id": "C5_dorsal_root",
+                    "connects": [
+                        "C5_spinal",
+                        "spinal_5-1/C5_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_C5"
+                    ]
+                },
+                {
+                    "id": "C6_dorsal_root",
+                    "connects": [
+                        "C6_spinal",
+                        "spinal_6-1/C6_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_C6",
+                        "S50_C6"
+                    ]
+                },
+                {
+                    "id": "C7_dorsal_root",
+                    "connects": [
+                        "C7_spinal",
+                        "spinal_7-1/C7_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_C7",
+                        "S50_C7"
+                    ]
+                },
+                {
+                    "id": "C8_dorsal_root",
+                    "connects": [
+                        "C8_spinal",
+                        "spinal_8-1/C8_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_C8",
+                        "S50_C8"
+                    ]
+                },
+                {
+                    "id": "T1_dorsal_root",
+                    "connects": [
+                        "T1_spinal",
+                        "spinal_9-1/T1_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_T1"
+                    ]
+                },
+                {
+                    "id": "T2_dorsal_root",
+                    "connects": [
+                        "T2_spinal",
+                        "spinal_10-1/T2_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_T2"
+                    ]
+                },
+                {
+                    "id": "T3_dorsal_root",
+                    "connects": [
+                        "T3_spinal",
+                        "spinal_11-1/T3_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_T3"
+                    ]
+                },
+                {
+                    "id": "T4_dorsal_root",
+                    "connects": [
+                        "T4_spinal",
+                        "spinal_12-1/T4_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_T4"
+                    ]
+                },
+                {
+                    "id": "T5_dorsal_root",
+                    "connects": [
+                        "T5_spinal",
+                        "spinal_13-1/T5_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_T5"
+                    ]
+                },
+                {
+                    "id": "T6_dorsal_root",
+                    "connects": [
+                        "T6_spinal",
+                        "spinal_14-1/T6_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_T6"
+                    ]
+                },
+                {
+                    "id": "L1_dorsal_root",
+                    "connects": [
+                        "L1_spinal",
+                        "spinal_22-1/L1_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_L1"
+                    ]
+                },
+                {
+                    "id": "L2_dorsal_root",
+                    "connects": [
+                        "L2_spinal",
+                        "spinal_23-1/L2_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_L2"
+                    ]
+                },
+                {
+                    "id": "L6_dorsal_root",
+                    "connects": [
+                        "L6_spinal",
+                        "spinal_27-1/L6_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_L6"
+                    ]
+                },
+                {
+                    "id": "S1_dorsal_root",
+                    "connects": [
+                        "S1_spinal",
+                        "spinal_28-1/S1_dorsal_root_end"
+                    ],
+                    "contained-in": [
+                        "S45_S1"
+                    ]
+                },
+                {
+                    "id": "C3_ventral_root",
+                    "connects": [
+                        "C3_spinal",
+                        "spinal_3-1/C3_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C3",
+                        "S50_C3"
+                    ]
+                },
+                {
+                    "id": "C4_ventral_root",
+                    "connects": [
+                        "C4_spinal",
+                        "spinal_4-1/C4_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C4",
+                        "S50_C4"
+                    ]
+                },
+                {
+                    "id": "C5_ventral_root",
+                    "connects": [
+                        "C5_spinal",
+                        "spinal_5-1/C5_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_C5",
+                        "S50_C5"
+                    ]
+                },
+                {
+                    "id": "L5_ventral_root",
+                    "connects": [
+                        "L5_spinal",
+                        "spinal_26-1/L5_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L5",
+                        "S50_L5"
+                    ]
+                },
+                {
+                    "id": "L6_ventral_root",
+                    "connects": [
+                        "L6_spinal",
+                        "spinal_27-1/L6_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L6",
+                        "S50_L6"
+                    ]
+                },
+                {
+                    "id": "S1_ventral_root",
+                    "connects": [
+                        "S1_spinal",
+                        "spinal_28-1/S1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_S1",
+                        "S50_S1"
+                    ]
+                },
+                {
+                    "id": "C6_ardell-1",
+                    "connects": [
+                        "C6_spinal",
+                        "ardell_1_point-1"
+                    ]
+                },
+                {
+                    "id": "C7_ardell-1",
+                    "connects": [
+                        "C7_spinal",
+                        "ardell_1_point-2"
+                    ]
+                },
+                {
+                    "id": "C8_ardell-1",
+                    "connects": [
+                        "C8_spinal",
+                        "ardell_1_point-3"
+                    ]
+                },
+                {
+                    "id": "T1_ardell-1",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell_1_point-4"
+                    ]
+                },
+                {
+                    "id": "T1_ardell-1",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell_1_point-4"
+                    ]
+                },
+                {
+                    "id": "T2_ardell-1",
+                    "connects": [
+                        "T2_spinal",
+                        "ardell_1_point-5"
+                    ]
+                },
+                {
+                    "id": "T3_ardell-1",
+                    "connects": [
+                        "T3_spinal",
+                        "ardell_1_point-6"
+                    ]
+                },
+                {
+                    "id": "T4_ardell-1",
+                    "connects": [
+                        "T4_spinal",
+                        "ardell_1_point-7"
+                    ]
+                },
+                {
+                    "id": "T5_ardell-1",
+                    "connects": [
+                        "T5_spinal",
+                        "ardell_1_point-8"
+                    ]
+                },
+                {
+                    "id": "T6_ardell-1",
+                    "connects": [
+                        "T6_spinal",
+                        "ardell_1_point-9"
+                    ]
+                },
+                {
+                    "id": "ardell_1",
+                    "connects": [
+                        "ardell_1_point-1",
+                        "ardell_1_point-2",
+                        "ardell_1_point-3",
+                        "ardell_1_point-4",
+                        "ardell_1_point-5",
+                        "ardell_1_point-6",
+                        "ardell_1_point-7",
+                        "ardell_1_point-8",
+                        "ardell_1_point-9",
+                        "ardell_1_branching_point"
+                    ]
+                },
                 {
                     "id": "n_1",
                     "connects": [
