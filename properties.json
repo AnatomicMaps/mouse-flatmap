@@ -2645,12 +2645,12 @@
         "endocrine_6_3": {
             "class": "endocrine_6"
         },
-        "keast_1-1": {
+        "bladder_nerve": {
             "class": "keast_1",
             "type": "nerve",
             "models": "ILX:0793559"
         },
-        "keast_2-1": {
+        "pudendal_n": {
             "class": "keast_2",
             "type": "nerve",
             "models": "UBERON:0011390"
@@ -2658,12 +2658,12 @@
         "ganglion_4-1": {
             "class": "ganglion_4"
         },
-        "keast_4-1": {
+        "pelvic_splanchnic": {
             "class": "keast_4",
             "type": "nerve",
             "models": "UBERON:0018675"
         },
-        "keast_5-1": {
+        "hypogastric": {
             "class": "keast_5",
             "type": "nerve",
             "models": "UBERON:0005303"
@@ -2671,7 +2671,7 @@
         "ganglion_5-1": {
             "class": "ganglion_5"
         },
-        "keast_7-1": {
+        "lumbar_splanchnic": {
             "class": "keast_7",
             "type": "nerve",
             "models": "UBERON:0018683"
@@ -4245,23 +4245,23 @@
             "type": "nerve",
             "models": "ILX:0738312"
         },
-        "bolser_106": {
+        "glossopharyngeal_1": {
             "type": "nerve",
             "models": "UBERON:0001649"
         },
-        "bolser_107": {
+        "glossopharyngeal_3": {
             "type": "nerve",
             "models": "UBERON:0009009"
         },
-        "bolser_108": {
+        "glossopharyngeal_2": {
             "type": "nerve",
             "models": "ILX:0738313"
         },
-        "bolser_109": {
+        "recurrent_laryngeal_16": {
             "type": "nerve",
             "model-unknown": ""
         },
-        "bolser_110": {
+        "recurrent_laryngeal_17": {
             "type": "nerve",
             "model-unknown": ""
         },
@@ -4281,7 +4281,7 @@
             "type": "nerve",
             "model-unknown": ""
         },
-        "bolser_115": {
+        "glossopharyngeal_4": {
             "type": "nerve",
             "models": "ILX:0789339"
         },
@@ -5195,6 +5195,69 @@
                     ],
                     "contained-in": [
                         "recurrent_laryngeal_15"
+                    ]
+                },
+                {
+                    "id": "RLN_12",
+                    "models": "ILX:0786150",
+                    "connects": [
+                        "RLN_point_1",
+                        "RLN_point_4"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_7"
+                    ]
+                },
+                {
+                    "id": "RLN_13",
+                    "models": "ILX:0787303",
+                    "connects": [
+                        "RLN_point_1",
+                        "label_13-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_4"
+                    ]
+                },
+                {
+                    "id": "RLN_14",
+                    "models": "ILX:0792328",
+                    "connects": [
+                        "RLN_point_1",
+                        "respiratory_8-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_5"
+                    ]
+                },
+                {
+                    "id": "RLN_15",
+                    "models": "ILX:0793070",
+                    "connects": [
+                        "RLN_point_1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_6"
+                    ]
+                },
+                {
+                    "id": "RLN_16",
+                    "connects": [
+                        "RLN_point_1",
+                        "respiratory_11-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_16"
+                    ]
+                },
+                {
+                    "id": "RLN_17",
+                    "connects": [
+                        "RLN_point_1",
+                        "respiratory_11-1"
+                    ],
+                    "contained-in": [
+                        "recurrent_laryngeal_17"
                     ]
                 },
                 {
