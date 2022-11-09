@@ -6072,7 +6072,7 @@
                     "models": "UBERON:0018675",
                     "connects": [
                         "pelvic_branching_point",
-                        "ganglion_5-1"
+                        "ganglion_4-1"
                     ],
                     "contained-in": [
                         "pelvic_splanchnic"
