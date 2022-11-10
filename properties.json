@@ -5942,6 +5942,171 @@
                     ]
                 },
                 {
+                    "id": "T1_ventral_root_ramus",
+                    "connects": [
+                        "T1_spinal",
+                        "T1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S48_T1"
+                    ]
+                },
+                {
+                    "id": "T2_ventral_root_ramus",
+                    "connects": [
+                        "T2_spinal",
+                        "T2_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S49_T2"
+                    ]
+                },
+                {
+                    "id": "T3_ventral_root_ramus",
+                    "connects": [
+                        "T3_spinal",
+                        "T3_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S49_T3"
+                    ]
+                },
+                {
+                    "id": "T4_ventral_root_ramus",
+                    "connects": [
+                        "T4_spinal",
+                        "T4_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S49_T4"
+                    ]
+                },
+                {
+                    "id": "T5_ventral_root_ramus",
+                    "connects": [
+                        "T5_spinal",
+                        "T5_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S49_T5"
+                    ]
+                },
+                {
+                    "id": "T6_ventral_root_ramus",
+                    "connects": [
+                        "T6_spinal",
+                        "T6_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S49_T6"
+                    ]
+                },
+                {
+                    "id": "T7_ventral_root_ramus",
+                    "connects": [
+                        "T7_spinal",
+                        "T7_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T7",
+                        "S48_T7",
+                        "S49_T7",
+                        "S50_T7"
+                    ]
+                },
+                {
+                    "id": "T8_ventral_root_ramus",
+                    "connects": [
+                        "T8_spinal",
+                        "T8_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T8",
+                        "S48_T8",
+                        "S49_T8",
+                        "S50_T8"
+                    ]
+                },
+                {
+                    "id": "T9_ventral_root_ramus",
+                    "connects": [
+                        "T9_spinal",
+                        "T9_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T9",
+                        "S48_T9",
+                        "S49_T9",
+                        "S50_T9"
+                    ]
+                },
+                {
+                    "id": "T10_ventral_root_ramus",
+                    "connects": [
+                        "T10_spinal",
+                        "T10_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T10",
+                        "S48_T10",
+                        "S49_T10",
+                        "S50_T10"
+                    ]
+                },
+                {
+                    "id": "T11_ventral_root_ramus",
+                    "connects": [
+                        "T11_spinal",
+                        "T11_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T11",
+                        "S48_T11",
+                        "S49_T11",
+                        "S50_T11"
+                    ]
+                },
+                {
+                    "id": "T12_ventral_root_ramus",
+                    "connects": [
+                        "T12_spinal",
+                        "T12_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T12",
+                        "S48_T12",
+                        "S49_T12",
+                        "S50_T12"
+                    ]
+                },
+                {
+                    "id": "T13_ventral_root_ramus",
+                    "connects": [
+                        "T13_spinal",
+                        "T13_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_T13",
+                        "S48_T13",
+                        "S49_T13",
+                        "S50_T13"
+                    ]
+                },
+                {
+                    "id": "L1_ventral_root_ramus",
+                    "connects": [
+                        "L1_spinal",
+                        "spinal_22-1/L1_ventral_root_end"
+                    ]
+                },
+                {
+                    "id": "L2_ventral_root_ramus",
+                    "connects": [
+                        "L2_spinal",
+                        "spinal_23-1/L2_ventral_root_end"
+                    ]
+                },
+                {
                     "id": "C6_ardell-1",
                     "connects": [
                         "C6_spinal",
