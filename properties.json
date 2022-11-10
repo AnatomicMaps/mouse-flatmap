@@ -4237,7 +4237,7 @@
             "type": "nerve",
             "models": "ILX:0738315"
         },
-        "bolser_104": {
+        "GGN": {
             "type": "nerve",
             "models": "ILX:0738293"
         },
@@ -6327,6 +6327,17 @@
                     ],
                     "contained-in": [
                         "AADN"
+                    ]
+                },
+                {
+                    "id": "GGN_1",
+                    "models": "ILX:0738293",
+                    "connects": [
+                        "plexus_1-1",
+                        "GGN_branching_point"
+                    ],
+                    "contained-in": [
+                        "GGN"
                     ]
                 },
                 {
