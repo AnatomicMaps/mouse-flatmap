@@ -6506,6 +6506,115 @@
                     ]
                 },
                 {
+                    "id": "T1_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T1_ventral_root_end",
+                        "S46_T1"
+                    ],
+                    "contained-in": [
+                        "S43_T1"
+                    ]
+                },
+                {
+                    "id": "T2_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T2_ventral_root_end",
+                        "S46_T2"
+                    ],
+                    "contained-in": [
+                        "S43_T2",
+                        "S48_T2"
+                    ]
+                },
+                {
+                    "id": "T3_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T3_ventral_root_end",
+                        "S46_T3"
+                    ],
+                    "contained-in": [
+                        "S43_T3",
+                        "S48_T3"
+                    ]
+                },
+                {
+                    "id": "T4_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T4_ventral_root_end",
+                        "S46_T4"
+                    ],
+                    "contained-in": [
+                        "S43_T4",
+                        "S48_T4"
+                    ]
+                },
+                {
+                    "id": "T5_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T5_ventral_root_end",
+                        "S46_T5"
+                    ],
+                    "contained-in": [
+                        "S43_T5",
+                        "S48_T5"
+                    ]
+                },
+                {
+                    "id": "T6_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "T6_ventral_root_end",
+                        "S46_T6"
+                    ],
+                    "contained-in": [
+                        "S43_T6",
+                        "S48_T6"
+                    ]
+                },
+                {
+                    "id": "L1_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "spinal_22-1/L1_ventral_root_end",
+                        "S46_L1"
+                    ],
+                    "contained-in": [
+                        "S43_L1",
+                        "S48_L1",
+                        "S50_L1"
+                    ]
+                },
+                {
+                    "id": "L2_ventral_root_paravertebral_ganglion",
+                    "connects": [
+                        "spinal_23-1/L2_ventral_root_end",
+                        "S46_L2"
+                    ],
+                    "contained-in": [
+                        "S43_L2",
+                        "S48_L2",
+                        "S50_L2"
+                    ]
+                },
+                {
+                    "id": "L6_paravertebral_ganglion",
+                    "connects": [
+                        "L6_spinal",
+                        "S46_L6"
+                    ],
+                    "contained-in": [
+                        "S48_L6"
+                    ]
+                },
+                {
+                    "id": "S1_paravertebral_ganglion",
+                    "connects": [
+                        "S1_spinal",
+                        "S46_S1"
+                    ],
+                    "contained-in": [
+                        "S48_S1"
+                    ]
+                },
+                {
                     "id": "n_1",
                     "connects": [
                         "point_1",
