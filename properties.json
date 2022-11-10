@@ -5234,7 +5234,8 @@
                     "id": "RLN_15",
                     "models": "ILX:0793070",
                     "connects": [
-                        "RLN_point_1"
+                        "RLN_point_1",
+                        "respiratory_11-1"
                     ],
                     "contained-in": [
                         "recurrent_laryngeal_6"
@@ -6098,6 +6099,223 @@
                     ],
                     "contained-in": [
                         "bladder_nerve"
+                    ]
+                },
+                {
+                    "id": "pons_brngtn_cns",
+                    "connects": [
+                        "brain_26-1",
+                        "brain_13-1"
+                    ]
+                },
+                {
+                    "id": "pons_medulla_cns",
+                    "connects": [
+                        "brain_26-1",
+                        "brain_27-1"
+                    ]
+                },
+                {
+                    "id": "medulla_C1_cns",
+                    "connects": [
+                        "brain_27-1",
+                        "spinal_1-1"
+                    ]
+                },
+                {
+                    "id": "C1_C2_cns",
+                    "connects": [
+                        "spinal_1-1",
+                        "spinal_2-1"
+                    ]
+                },
+                {
+                    "id": "C2_C3_cns",
+                    "connects": [
+                        "spinal_2-1",
+                        "spinal_3-1"
+                    ]
+                },
+                {
+                    "id": "C3_C4_cns",
+                    "connects": [
+                        "spinal_3-1",
+                        "spinal_4-1"
+                    ]
+                },
+                {
+                    "id": "C4_C5_cns",
+                    "connects": [
+                        "spinal_4-1",
+                        "spinal_5-1"
+                    ]
+                },
+                {
+                    "id": "C5_C6_cns",
+                    "connects": [
+                        "spinal_5-1",
+                        "spinal_6-1"
+                    ]
+                },
+                {
+                    "id": "C6_C7_cns",
+                    "connects": [
+                        "spinal_6-1",
+                        "spinal_7-1"
+                    ]
+                },
+                {
+                    "id": "C7_C8_cns",
+                    "connects": [
+                        "spinal_7-1",
+                        "spinal_8-1"
+                    ]
+                },
+                {
+                    "id": "C8_T1_cns",
+                    "connects": [
+                        "spinal_8-1",
+                        "spinal_9-1"
+                    ]
+                },
+                {
+                    "id": "T1_T2_cns",
+                    "connects": [
+                        "spinal_9-1",
+                        "spinal_10-1"
+                    ]
+                },
+                {
+                    "id": "T2_T3_cns",
+                    "connects": [
+                        "spinal_10-1",
+                        "spinal_11-1"
+                    ]
+                },
+                {
+                    "id": "T3_T4_cns",
+                    "connects": [
+                        "spinal_11-1",
+                        "spinal_12-1"
+                    ]
+                },
+                {
+                    "id": "T4_T5_cns",
+                    "connects": [
+                        "spinal_12-1",
+                        "spinal_13-1"
+                    ]
+                },
+                {
+                    "id": "T5_T6_cns",
+                    "connects": [
+                        "spinal_13-1",
+                        "spinal_14-1"
+                    ]
+                },
+                {
+                    "id": "T6_T7_cns",
+                    "connects": [
+                        "spinal_14-1",
+                        "spinal_15-1"
+                    ]
+                },
+                {
+                    "id": "T7_T8_cns",
+                    "connects": [
+                        "spinal_15-1",
+                        "spinal_16-1"
+                    ]
+                },
+                {
+                    "id": "T8_T9_cns",
+                    "connects": [
+                        "spinal_16-1",
+                        "spinal_17-1"
+                    ]
+                },
+                {
+                    "id": "T9_T10_cns",
+                    "connects": [
+                        "spinal_17-1",
+                        "spinal_18-1"
+                    ]
+                },
+                {
+                    "id": "T10_T11_cns",
+                    "connects": [
+                        "spinal_18-1",
+                        "spinal_19-1"
+                    ]
+                },
+                {
+                    "id": "T11_T12_cns",
+                    "connects": [
+                        "spinal_19-1",
+                        "spinal_20-1"
+                    ]
+                },
+                {
+                    "id": "T12_T13_cns",
+                    "connects": [
+                        "spinal_20-1",
+                        "spinal_21-1"
+                    ]
+                },
+                {
+                    "id": "T13_L1_cns",
+                    "connects": [
+                        "spinal_21-1",
+                        "spinal_22-1"
+                    ]
+                },
+                {
+                    "id": "L1_L2_cns",
+                    "connects": [
+                        "spinal_22-1",
+                        "spinal_23-1"
+                    ]
+                },
+                {
+                    "id": "L2_L3_cns",
+                    "connects": [
+                        "spinal_23-1",
+                        "spinal_24-1"
+                    ]
+                },
+                {
+                    "id": "L3_L4_cns",
+                    "connects": [
+                        "spinal_24-1",
+                        "spinal_25-1"
+                    ]
+                },
+                {
+                    "id": "L4_L5_cns",
+                    "connects": [
+                        "spinal_25-1",
+                        "spinal_26-1"
+                    ]
+                },
+                {
+                    "id": "L5_L6_cns",
+                    "connects": [
+                        "spinal_26-1",
+                        "spinal_27-1"
+                    ]
+                },
+                {
+                    "id": "L6_S1_cns",
+                    "connects": [
+                        "spinal_27-1",
+                        "spinal_28-1"
+                    ]
+                },
+                {
+                    "id": "S1_S2_cns",
+                    "connects": [
+                        "spinal_28-1",
+                        "spinal_29-1"
                     ]
                 },
                 {
