@@ -4241,7 +4241,7 @@
             "type": "nerve",
             "models": "ILX:0738293"
         },
-        "bolser_105": {
+        "AADN": {
             "type": "nerve",
             "models": "ILX:0738312"
         },
@@ -6316,6 +6316,17 @@
                     "connects": [
                         "spinal_28-1",
                         "spinal_29-1"
+                    ]
+                },
+                {
+                    "id": "AADN_1",
+                    "models": "ILX:0738312",
+                    "connects": [
+                        "ganglion_2-1",
+                        "AADN_branching_point"
+                    ],
+                    "contained-in": [
+                        "AADN"
                     ]
                 },
                 {
