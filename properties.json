@@ -5390,98 +5390,6 @@
                     ]
                 },
                 {
-                    "id": "ardell_6",
-                    "connects": [
-                        "ardell-6_point-1",
-                        "ardell-6_point-2",
-                        "ardell-6_point-3",
-                        "ardell-6_point-4",
-                        "ardell-6_point-5",
-                        "ardell-6_point-6",
-                        "ardell-6_point-7",
-                        "ardell-6_point-8",
-                        "ardell-6_point-9",
-                        "ardell-6_branching_point"
-                    ]
-                },
-                {
-                    "id": "SCG-ardell_6",
-                    "connects": [
-                        "ganglion_3-1",
-                        "ardell-6_point-1"
-                    ]
-                },
-                {
-                    "id": "MCG-ardell_6",
-                    "connects": [
-                        "ganglion_9-1",
-                        "ardell-6_point-2"
-                    ]
-                },
-                {
-                    "id": "ICG-ardell_6",
-                    "connects": [
-                        "ganglion_10-1",
-                        "ardell-6_point-3"
-                    ]
-                },
-                {
-                    "id": "T1-ardell_6",
-                    "connects": [
-                        "T1_spinal",
-                        "ardell-6_point-4"
-                    ]
-                },
-                {
-                    "id": "T2-ardell_6",
-                    "connects": [
-                        "T2_spinal",
-                        "ardell-6_point-5"
-                    ]
-                },
-                {
-                    "id": "T3-ardell_6",
-                    "connects": [
-                        "T3_spinal",
-                        "ardell-6_point-6"
-                    ]
-                },
-                {
-                    "id": "T4-ardell_6",
-                    "connects": [
-                        "T4_spinal",
-                        "ardell-6_point-7"
-                    ]
-                },
-                {
-                    "id": "T5-ardell_6",
-                    "connects": [
-                        "T5_spinal",
-                        "ardell-6_point-8"
-                    ]
-                },
-                {
-                    "id": "T6-ardell_6",
-                    "connects": [
-                        "T6_spinal",
-                        "ardell-6_point-9"
-                    ]
-                },
-                {
-                    "id": "MCG-ardell_2",
-                    "connects": [
-                        "ganglion_9-1",
-                        "ardell-2_branching_point"
-                    ]
-                },
-                {
-                    "id": "ICG-ardell_2",
-                    "connects": [
-                        "ganglion_10-1",
-                        "ardell-2_branching_point"
-                    ]
-                },
-                {
                     "id": "splanchnic_n",
                     "models": "UBERON:0003715",
                     "connects": [
@@ -5624,60 +5532,6 @@
                     "connects": [
                         "L1_spinal",
                         "splanchnic_point-14"
-                    ]
-                },
-                {
-                    "id": "T1_ardell-5",
-                    "connects": [
-                        "S46_T1",
-                        "ardell_5_point-1"
-                    ]
-                },
-                {
-                    "id": "T2_ardell-5",
-                    "connects": [
-                        "S46_T2",
-                        "ardell_5_point-2"
-                    ]
-                },
-                {
-                    "id": "T3_ardell-5",
-                    "connects": [
-                        "S46_T3",
-                        "ardell_5_point-3"
-                    ]
-                },
-                {
-                    "id": "T4_ardell-5",
-                    "connects": [
-                        "S46_T4",
-                        "ardell_5_point-4"
-                    ]
-                },
-                {
-                    "id": "T5_ardell-5",
-                    "connects": [
-                        "S46_T5",
-                        "ardell_5_point-5"
-                    ]
-                },
-                {
-                    "id": "T6_ardell-5",
-                    "connects": [
-                        "S46_T6",
-                        "ardell_5_point-6"
-                    ]
-                },
-                {
-                    "id": "ardell_5",
-                    "connects": [
-                        "ardell_5_point-1",
-                        "ardell_5_point-2",
-                        "ardell_5_point-3",
-                        "ardell_5_point-4",
-                        "ardell_5_point-5",
-                        "ardell_5_point-6",
-                        "ardell_5_branching_point"
                     ]
                 },
                 {
@@ -6107,81 +5961,65 @@
                     ]
                 },
                 {
-                    "id": "C6_ardell-1",
+                    "id": "T1_gray_ramus-spinal_n",
                     "connects": [
-                        "C6_spinal",
-                        "ardell_1_point-1"
+                        "S46_T1",
+                        "T1_spinal"
                     ]
                 },
                 {
-                    "id": "C7_ardell-1",
+                    "id": "T2_gray_ramus-spinal_n",
                     "connects": [
-                        "C7_spinal",
-                        "ardell_1_point-2"
+                        "S46_T2",
+                        "T2_spinal"
                     ]
                 },
                 {
-                    "id": "C8_ardell-1",
+                    "id": "T3_gray_ramus-spinal_n",
                     "connects": [
-                        "C8_spinal",
-                        "ardell_1_point-3"
+                        "S46_T3",
+                        "T3_spinal"
                     ]
                 },
                 {
-                    "id": "T1_ardell-1",
+                    "id": "T4_gray_ramus-spinal_n",
                     "connects": [
-                        "T1_spinal",
-                        "ardell_1_point-4"
+                        "S46_T4",
+                        "T4_spinal"
                     ]
                 },
                 {
-                    "id": "T2_ardell-1",
+                    "id": "T5_gray_ramus-spinal_n",
                     "connects": [
-                        "T2_spinal",
-                        "ardell_1_point-5"
+                        "S46_T5",
+                        "T5_spinal"
                     ]
                 },
                 {
-                    "id": "T3_ardell-1",
+                    "id": "T6_gray_ramus-spinal_n",
                     "connects": [
-                        "T3_spinal",
-                        "ardell_1_point-6"
+                        "S46_T6",
+                        "T6_spinal"
                     ]
                 },
                 {
-                    "id": "T4_ardell-1",
+                    "id": "L6_gray_ramus-spinal_n",
                     "connects": [
-                        "T4_spinal",
-                        "ardell_1_point-7"
+                        "S46_L6",
+                        "L6_spinal"
+                    ],
+                    "contained-in": [
+                        "S49_L6"
                     ]
                 },
                 {
-                    "id": "T5_ardell-1",
+                    "id": "S1_gray_ramus-spinal_n",
                     "connects": [
-                        "T5_spinal",
-                        "ardell_1_point-8"
-                    ]
-                },
-                {
-                    "id": "T6_ardell-1",
-                    "connects": [
-                        "T6_spinal",
-                        "ardell_1_point-9"
-                    ]
-                },
-                {
-                    "id": "ardell_1",
-                    "connects": [
-                        "ardell_1_point-1",
-                        "ardell_1_point-2",
-                        "ardell_1_point-3",
-                        "ardell_1_point-4",
-                        "ardell_1_point-5",
-                        "ardell_1_point-6",
-                        "ardell_1_point-7",
-                        "ardell_1_point-8",
-                        "ardell_1_point-9",
-                        "ardell_1_branching_point"
+                        "S46_S1",
+                        "S1_spinal"
+                    ],
+                    "contained-in": [
+                        "S49_S1"
                     ]
                 },
                 {
@@ -6612,6 +6450,237 @@
                     ],
                     "contained-in": [
                         "S48_S1"
+                    ]
+                },
+                {
+                    "id": "ardell_1",
+                    "connects": [
+                        "ardell_1_point-1",
+                        "ardell_1_point-2",
+                        "ardell_1_point-3",
+                        "ardell_1_point-4",
+                        "ardell_1_point-5",
+                        "ardell_1_point-6",
+                        "ardell_1_point-7",
+                        "ardell_1_point-8",
+                        "ardell_1_point-9",
+                        "ardell_1_branching_point"
+                    ]
+                },
+                {
+                    "id": "C6_ardell-1",
+                    "connects": [
+                        "C6_spinal",
+                        "ardell_1_point-1"
+                    ]
+                },
+                {
+                    "id": "C7_ardell-1",
+                    "connects": [
+                        "C7_spinal",
+                        "ardell_1_point-2"
+                    ]
+                },
+                {
+                    "id": "C8_ardell-1",
+                    "connects": [
+                        "C8_spinal",
+                        "ardell_1_point-3"
+                    ]
+                },
+                {
+                    "id": "T1_ardell-1",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell_1_point-4"
+                    ]
+                },
+                {
+                    "id": "T2_ardell-1",
+                    "connects": [
+                        "T2_spinal",
+                        "ardell_1_point-5"
+                    ]
+                },
+                {
+                    "id": "T3_ardell-1",
+                    "connects": [
+                        "T3_spinal",
+                        "ardell_1_point-6"
+                    ]
+                },
+                {
+                    "id": "T4_ardell-1",
+                    "connects": [
+                        "T4_spinal",
+                        "ardell_1_point-7"
+                    ]
+                },
+                {
+                    "id": "T5_ardell-1",
+                    "connects": [
+                        "T5_spinal",
+                        "ardell_1_point-8"
+                    ]
+                },
+                {
+                    "id": "T6_ardell-1",
+                    "connects": [
+                        "T6_spinal",
+                        "ardell_1_point-9"
+                    ]
+                },
+                {
+                    "id": "MCG-ardell_2",
+                    "connects": [
+                        "ganglion_9-1",
+                        "ardell-2_branching_point"
+                    ]
+                },
+                {
+                    "id": "ICG-ardell_2",
+                    "connects": [
+                        "ganglion_10-1",
+                        "ardell-2_branching_point"
+                    ]
+                },
+                {
+                    "id": "ardell_4",
+                    "connects": [
+                        "point_1",
+                        "ardell_4_branching_point"
+                    ]
+                },
+                {
+                    "id": "ardell_5",
+                    "connects": [
+                        "ardell_5_point-1",
+                        "ardell_5_point-2",
+                        "ardell_5_point-3",
+                        "ardell_5_point-4",
+                        "ardell_5_point-5",
+                        "ardell_5_point-6",
+                        "ardell_5_branching_point"
+                    ]
+                },
+                {
+                    "id": "T1_ardell-5",
+                    "connects": [
+                        "S46_T1",
+                        "ardell_5_point-1"
+                    ]
+                },
+                {
+                    "id": "T2_ardell-5",
+                    "connects": [
+                        "S46_T2",
+                        "ardell_5_point-2"
+                    ]
+                },
+                {
+                    "id": "T3_ardell-5",
+                    "connects": [
+                        "S46_T3",
+                        "ardell_5_point-3"
+                    ]
+                },
+                {
+                    "id": "T4_ardell-5",
+                    "connects": [
+                        "S46_T4",
+                        "ardell_5_point-4"
+                    ]
+                },
+                {
+                    "id": "T5_ardell-5",
+                    "connects": [
+                        "S46_T5",
+                        "ardell_5_point-5"
+                    ]
+                },
+                {
+                    "id": "T6_ardell-5",
+                    "connects": [
+                        "S46_T6",
+                        "ardell_5_point-6"
+                    ]
+                },
+                {
+                    "id": "ardell_6",
+                    "connects": [
+                        "ardell-6_point-1",
+                        "ardell-6_point-2",
+                        "ardell-6_point-3",
+                        "ardell-6_point-4",
+                        "ardell-6_point-5",
+                        "ardell-6_point-6",
+                        "ardell-6_point-7",
+                        "ardell-6_point-8",
+                        "ardell-6_point-9",
+                        "ardell-6_branching_point"
+                    ]
+                },
+                {
+                    "id": "SCG-ardell_6",
+                    "connects": [
+                        "ganglion_3-1",
+                        "ardell-6_point-1"
+                    ]
+                },
+                {
+                    "id": "MCG-ardell_6",
+                    "connects": [
+                        "ganglion_9-1",
+                        "ardell-6_point-2"
+                    ]
+                },
+                {
+                    "id": "ICG-ardell_6",
+                    "connects": [
+                        "ganglion_10-1",
+                        "ardell-6_point-3"
+                    ]
+                },
+                {
+                    "id": "T1-ardell_6",
+                    "connects": [
+                        "T1_spinal",
+                        "ardell-6_point-4"
+                    ]
+                },
+                {
+                    "id": "T2-ardell_6",
+                    "connects": [
+                        "T2_spinal",
+                        "ardell-6_point-5"
+                    ]
+                },
+                {
+                    "id": "T3-ardell_6",
+                    "connects": [
+                        "T3_spinal",
+                        "ardell-6_point-6"
+                    ]
+                },
+                {
+                    "id": "T4-ardell_6",
+                    "connects": [
+                        "T4_spinal",
+                        "ardell-6_point-7"
+                    ]
+                },
+                {
+                    "id": "T5-ardell_6",
+                    "connects": [
+                        "T5_spinal",
+                        "ardell-6_point-8"
+                    ]
+                },
+                {
+                    "id": "T6-ardell_6",
+                    "connects": [
+                        "T6_spinal",
+                        "ardell-6_point-9"
                     ]
                 },
                 {
