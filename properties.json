@@ -4225,7 +4225,7 @@
             "type": "nerve",
             "models": "FMA:6233"
         },
-        "bolser_101": {
+        "phrenic_n": {
             "type": "nerve",
             "models": "UBERON:0001884"
         },
@@ -6686,8 +6686,138 @@
                 {
                     "id": "bolser_11",
                     "connects": [
-                        "point_1",
+                        "brain_12-1",
                         "vagus_point_6"
+                    ]
+                },
+                {
+                    "id": "medulla_1",
+                    "connects": [
+                        "brain_33-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "medulla_2",
+                    "connects": [
+                        "brain_12-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "medulla_3",
+                    "connects": [
+                        "brain_34-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "medulla_4",
+                    "connects": [
+                        "brain_44-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "medulla_5",
+                    "connects": [
+                        "brain_48-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "medulla_6",
+                    "connects": [
+                        "brain_11-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "medulla_7",
+                    "connects": [
+                        "brain_27-1",
+                        "point_1"
+                    ]
+                },
+                {
+                    "id": "pons_1",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_14-1"
+                    ]
+                },
+                {
+                    "id": "pons_2",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_19-1"
+                    ]
+                },
+                {
+                    "id": "pons_3",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_17-1"
+                    ]
+                },
+                {
+                    "id": "pons_4",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_20-1"
+                    ]
+                },
+                {
+                    "id": "pons_5",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_15-1"
+                    ]
+                },
+                {
+                    "id": "pons_6",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_16-1"
+                    ]
+                },
+                {
+                    "id": "pons_7",
+                    "connects": [
+                        "brain_13-1",
+                        "brain_18-1"
+                    ]
+                },
+                {
+                    "id": "C3_phrenic",
+                    "connects": [
+                        "C3_spinal",
+                        "phrenic_point-1"
+                    ]
+                },
+                {
+                    "id": "C4_phrenic",
+                    "connects": [
+                        "C4_spinal",
+                        "phrenic_point-1"
+                    ]
+                },
+                {
+                    "id": "C5_phrenic",
+                    "connects": [
+                        "C5_spinal",
+                        "phrenic_point-1"
+                    ]
+                },
+                {
+                    "id": "phrenic_1",
+                    "models": "UBERON:0001884",
+                    "connects": [
+                        "phrenic_point-1",
+                        "phrenic_n_branching_point"
+                    ],
+                    "contained-in": [
+                        "phrenic_n"
                     ]
                 },
                 {
