@@ -4195,26 +4195,6 @@
             "type": "nerve",
             "models": "ILX:0738309"
         },
-        "recurrent_laryngeal_17": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_111": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_112": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_113": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_114": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
         "glossopharyngeal_4": {
             "type": "nerve",
             "models": "ILX:0789339"
@@ -4814,9 +4794,6 @@
                     "connects": [
                         "SLN_point_4",
                         "respiratory_11-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_19"
                     ]
                 },
                 {
@@ -4840,9 +4817,6 @@
                     "connects": [
                         "SLN_point_4",
                         "respiratory_5-1"
-                    ],
-                    "contained-in":[
-                        "superior_laryngeal_20"
                     ]
                 },
                 {
