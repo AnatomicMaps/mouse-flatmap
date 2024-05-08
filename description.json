@@ -1,0 +1,33 @@
+{
+    "title": "Rat flatmap",
+    "description": "Files for the mouse flatmap.",
+    "species": "NCBITaxon:10090",
+    "keywords": [
+        "SPARC",
+        "flatmap",
+        "mouse"
+    ],
+    "contributors": [
+        {
+            "name": "Brooks, David",
+            "orcid": "0000-0002-6758-2186",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Creator",
+            "contact": "Yes"
+        },
+        {
+            "name": "Ebrahimi, Nazanin",
+            "orcid": "0000-0001-7183-2638",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Creator",
+            "contact": "Yes"
+        },
+        {
+            "name": "Hunter, Peter",
+            "orcid": "0000-0001-9665-4145",
+            "affiliation": "Auckland Bioengineering Institute",
+            "role": "Principle Investigator"
+        }
+    ],
+    "funding": "OT3OD025349"
+}
