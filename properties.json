@@ -5839,13 +5839,24 @@
                     "connects": [
                         "L1_spinal",
                         "spinal_22-1/L1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L1",
+                        "S48_L1",
+                        "S49_L1"
                     ]
+
                 },
                 {
                     "id": "L2_ventral_root_ramus",
                     "connects": [
                         "L2_spinal",
                         "spinal_23-1/L2_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L2",
+                        "S48_L2",
+                        "S49_L2"
                     ]
                 },
                 {
@@ -6284,8 +6295,7 @@
                     ],
                     "contained-in": [
                         "S43_L1",
-                        "S48_L1",
-                        "S50_L1"
+                        "S48_L1"
                     ]
                 },
                 {
@@ -6816,7 +6826,7 @@
                 },
                 {
                     "id": "lacrimal",
-                    "models": "",
+                    "models": "UBERON:0011096",
                     "connects": [
                         "ophthalmic_branching_point",
                         "lacrimal_branching_point",
@@ -6833,7 +6843,7 @@
                 },
                 {
                     "id": "zygomatic",
-                    "models": "",
+                    "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
                         "zygomatic_branching_point",
