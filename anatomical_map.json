@@ -695,6 +695,22 @@
         "term": "UBERON:0001344",
         "name": "Epithelium of Vagina"
     },
+    "reproductive_19": {
+        "term": "UBERON:0002119",
+        "name": "Left ovary"
+    },
+    "reproductive_20": {
+        "term": "UBERON:0002118",
+        "name": "Right ovary"
+    },
+    "reproductive_21": {
+        "term": "UBERON:0009853",
+        "name": "Body of Uterus"
+    },
+    "reproductive_22": {
+        "term": "UBERON:0001981",
+        "name": "Blood vessel"
+    },
     "muscle_1": {
         "term": "ILX:0738319",
         "name": "T1-T2 intercostal muscle"
