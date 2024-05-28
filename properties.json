@@ -1401,7 +1401,8 @@
             "name": "eleventh thoracic dorsal root ganglion"
         },
         "S45_T12": {
-            "class": "spinal_45"
+            "models": "UBERON:0002855",
+            "name": "twelfth thoracic dorsal root ganglion"
         },
         "S45_T13": {
             "models": "ILX:0793359",
@@ -1444,11 +1445,12 @@
             "name": "third sacral dorsal root ganglion"
         },
         "S45_S4": {
-            "class": "spinal_45"
+            "models": "UBERON:0007713",
+            "name": "third sacral dorsal root ganglion"
         },
         "S45_S5": {
             "models": "UBERON:0002863",
-            "name": "fifth sacral dorsal root ganglion"
+            "name": "fourth sacral dorsal root ganglion"
         },
         "S46_T1": {
             "models": "ILX:0774266",
@@ -2786,6 +2788,12 @@
         },
         "reproductive_20-1": {
             "class": "reproductive_20"
+        },
+        "reproductive_21-1": {
+            "class": "reproductive_21"
+        },
+        "reproductive_22-1": {
+            "class": "reproductive_22"
         },
         "respiratory_10-1": {
             "class": "respiratory_10"
@@ -4659,7 +4667,7 @@
                     "models": "FMA:6231",
                     "connects": [
                         "ganglion_1-1",
-                        "meningeal_vagus_1_branching_pointlabel_1-1"
+                        "meningeal_vagus_1_branching_pointlabel_1"
                     ]
                 },
                 {
