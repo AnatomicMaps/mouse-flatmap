@@ -620,8 +620,8 @@
         "name": "Lower Esophagus"
     },
     "digestive_80": {
-        "term": "UBERON:0002384",
-        "name": "Connective tissue"
+         "term": "UBERON:0001263",
+        "name": "Pancreatic acinus"
     },
     "digestive_81": {
         "term": "UBERON:0001832",
@@ -630,6 +630,26 @@
     "digestive_82": {
         "term": "UBERON:0002059",
         "name": "Submandibular ganglion"
+    },
+    "digestive_83": {
+        "term": "UBERON:0000006",
+        "name": "Islet of langerhans"
+    },
+	"digestive_84": {
+        "term": "UBERON:0000483",
+        "name": "Epithelium"
+    },
+	"digestive_85": {
+        "term": "UBERON:0001193",
+        "name": "Hepatic artery"
+    },
+	"digestive_86": {
+        "term": "UBERON:0001194",
+        "name": "Splenic artery"
+    },
+	"digestive_87": {
+        "term": "UBERON:0001195",
+        "name": "Inferior pancreaticoduodenal artery"
     },
     "reproductive_1": {
         "term": "UBERON:0000995",
