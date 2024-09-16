@@ -63,6 +63,14 @@
         "term": "UBERON:0002384",
         "name": "connective tissue"
     },
+    "urinary_17": {
+        "term": "UBERON:0004538",
+        "name": "left kidney"
+    },
+    "urinary_18": {
+        "term": "UBERON:0004539",
+        "name": "right kidney"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
