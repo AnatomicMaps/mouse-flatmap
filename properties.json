@@ -1446,11 +1446,11 @@
         },
         "S45_S4": {
             "models": "UBERON:0007713",
-            "name": "third sacral dorsal root ganglion"
+            "name": "fourh sacral dorsal root ganglion"
         },
         "S45_S5": {
             "models": "UBERON:0002863",
-            "name": "fourth sacral dorsal root ganglion"
+            "name": "fifth sacral dorsal root ganglion"
         },
         "S46_T1": {
             "models": "ILX:0774266",
