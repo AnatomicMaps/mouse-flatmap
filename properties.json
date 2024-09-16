@@ -2623,6 +2623,9 @@
         "digestive_87-1": {
             "class": "digestive_87"
         },
+        "digestive_88-1": {
+            "class": "digestive_88"
+        },
         "digestive_9-1": {
             "class": "digestive_9"
         },
@@ -3958,6 +3961,9 @@
         "urinary_18-1": {
             "class": "urinary_18"
         },
+        "urinary_19-1": {
+            "class": "urinary_19"
+        },
         "ganglion_1-1": {
             "class": "ganglion_1"
         },
@@ -4023,6 +4029,12 @@
         },
         "plexus_18-1": {
             "class": "plexus_18"
+        },
+        "plexus_19-1": {
+            "class": "plexus_19"
+        },
+        "plexus_20-1": {
+            "class": "plexus_20"
         },
         "label_1-1": {
             "class": "label_1"

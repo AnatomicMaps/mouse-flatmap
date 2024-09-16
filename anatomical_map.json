@@ -71,6 +71,10 @@
         "term": "UBERON:0004539",
         "name": "right kidney"
     },
+    "urinary_19": {
+        "term": "UBERON:0001184",
+        "name": "renal artery"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
@@ -659,7 +663,11 @@
         "term": "UBERON:0001195",
         "name": "Inferior pancreaticoduodenal artery"
     },
-    "reproductive_1": {
+    "digestive_88": {
+        "term": "UBERON:0002017",
+        "name": "portal vein"
+    },
+	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -1550,6 +1558,14 @@
     "plexus_18": {
         "models": "ILX:0793808",
         "name": "Uterovaginal nerve plexus"
+    },
+    "plexus_19": {
+        "models": "ILX:0771304",
+        "name": "Hepatic plexus"
+    },
+    "plexus_20": {
+        "models": "ILX:0795011",
+        "name": "periarterial neural plexus of the common hepatic artery"
     },
     "label_4": {
         "term": "UBERON:0002364",
