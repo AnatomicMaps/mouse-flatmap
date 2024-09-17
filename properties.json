@@ -1259,16 +1259,14 @@
             "class": "spinal_44"
         },
         "S44_L1": {
-            "models": "ILX:0787779",
-            "name": "Anterior root of first lumbar nerve"
+            "class": "spinal_44"
         },
         "S44_L1-1": {
             "models": "ILX:0787779",
             "name": "posterior root of first lumbar nerve"
         },
         "S44_L2": {
-            "models": "ILX:0792058",
-            "name": "Anterior root of second lumbar nerve"
+            "class": "spinal_44"
         },
         "S44_L2-1": {
             "models": "ILX:0792058",
@@ -1306,56 +1304,49 @@
             "class": "spinal_44"
         },
         "S44_T6": {
-            "models": "ILX:0785909",
-            "name": "Posterior root of sixth thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T6-1": {
             "models": "ILX:0785909",
             "name": "posterior root of sixth thoracic nerve"
         },
         "S44_T7": {
-            "models": "ILX:0784605",
-            "name": "Posterior root of seventh thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T7-1": {
             "models": "ILX:0784605",
             "name": "posterior root of seventh thoracic nerve"
         },
         "S44_T8": {
-            "models": "ILX:0792624",
-            "name": "Posterior root of eighth thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T8-1": {
             "models": "ILX:0792624",
             "name": "posterior root of eighth thoracic nerve"
         },
         "S44_T9": {
-            "models": "ILX:0789741",
-            "name": "Posterior root of ninth thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T9-1": {
             "models": "ILX:0789741",
             "name": "posterior root of ninth thoracic nerve"
         },
         "S44_T10": {
-            "models": "ILX:0789892",
-            "name": "Posterior root of tenth thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T10-1": {
             "models": "ILX:0789892",
             "name": "posterior root of tenth thoracic nerve"
         },
         "S44_T11": {
-            "models": "ILX:0790338",
-            "name": "Posterior root of eleventh thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T11-1": {
             "models": "ILX:0790338",
             "name": "posterior root of eleventh thoracic nerve"
         },
         "S44_T12": {
-            "models": "ILX:0787665",
-            "name": "Posterior root of twelfth thoracic nerve"
+            "class": "spinal_44"
         },
         "S44_T12-1":{
             "models": "ILX:0787665",
