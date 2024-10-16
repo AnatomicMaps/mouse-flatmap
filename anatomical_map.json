@@ -679,6 +679,10 @@
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
+	"digestive_89": {
+        "term": "ILX:0741796",
+        "name": "deep transverse perineal muscle"
+    },
 	"reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
