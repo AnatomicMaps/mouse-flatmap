@@ -83,6 +83,10 @@
         "term": "ILX:0795055",
         "name": "lower ureter"
     },
+    "urinary_23": {
+        "term": "UBERON:0002366",
+        "name": "bulbo-urethral gland"
+    },
     "cardio_1": {
         "term": "UBERON:0004535",
         "name": "cardiovascular system"
