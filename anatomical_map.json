@@ -336,11 +336,11 @@
         "name": "Bronchus"
     },
     "respiratory_26": {
-        "term": "FMA:67480",
+        "term": "ILX:0793764",
         "name": "Wall of Bronchus"
     },
     "respiratory_27": {
-        "term": "FMA:74655",
+        "term": "ILX:0793765",
         "name": "Wall of Bronchiole"
     },
     "respiratory_28": {
@@ -644,7 +644,7 @@
         "name": "Lower Esophagus"
     },
     "digestive_80": {
-         "term": "UBERON:0001263",
+        "term": "UBERON:0001263",
         "name": "Pancreatic acinus"
     },
     "digestive_81": {
@@ -659,19 +659,19 @@
         "term": "UBERON:0000006",
         "name": "Islet of langerhans"
     },
-	"digestive_84": {
+    "digestive_84": {
         "term": "UBERON:0000483",
         "name": "Epithelium"
     },
-	"digestive_85": {
+    "digestive_85": {
         "term": "UBERON:0001193",
         "name": "Hepatic artery"
     },
-	"digestive_86": {
+    "digestive_86": {
         "term": "UBERON:0001194",
         "name": "Splenic artery"
     },
-	"digestive_87": {
+    "digestive_87": {
         "term": "UBERON:0001195",
         "name": "Inferior pancreaticoduodenal artery"
     },
@@ -679,11 +679,11 @@
         "term": "UBERON:0002017",
         "name": "portal vein"
     },
-	"digestive_89": {
+    "digestive_89": {
         "term": "ILX:0741796",
         "name": "deep transverse perineal muscle"
     },
-	"reproductive_1": {
+    "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
     },
@@ -1096,11 +1096,11 @@
         "name": "sympathetic trunk"
     },
     "spinal_48": {
-        "term": "FMA:5875",
+        "term": "ILX:0794742",
         "name": "White communicating ramus"
     },
     "spinal_49": {
-        "term": "FMA:5876",
+        "term": "ILX:0794739",
         "name": "Gray communicating ramus"
     },
     "spinal_50": {
@@ -1359,10 +1359,6 @@
         "term": "UBERON:0009009",
         "name": "carotid sinus nerve"
     },
-    "bolser_8": {
-        "term": "UBERON:0001650",
-        "name": "hypoglossal nerve"
-    },
     "bolser_13": {
         "term": "ILX:0738373",
         "name": "Internal branch of superior laryngeal nerve"
@@ -1524,7 +1520,7 @@
         "name": "pulmonary nerve plexus"
     },
     "plexus_5": {
-        "term": "FMA:6225",
+        "term": "ILX:0793704",
         "name": "esophageal nerve plexus"
     },
     "plexus_6": {
