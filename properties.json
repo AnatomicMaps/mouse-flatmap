@@ -4772,7 +4772,7 @@
                     "models": "ILX:0793828",
                     "connects": [
                         "ganglion_1-1",
-                        "meningeal_vagus_1_branching_pointlabel_1"
+                        "meningeal_vagus_1_branching_point"
                     ]
                 },
                 {
