@@ -1,20 +1,5 @@
 {
     "classes": {
-        "ganglion_6": {
-            "label": "atrial intracardiac ganglion"
-        },
-        "ganglion_7": {
-            "label": "ventricular intracardiac ganglion"
-        },
-        "label_1": {
-            "label": "dura mater in the posterior cranial fossa"
-        },
-        "label_2": {
-            "label": "posterior wall of external acoustic meatus"
-        },
-        "label_3": {
-            "label": "floor of external acoustic meatus"
-        },
         "label_11": {
             "label": "arytenoideus"
         },
@@ -27,28 +12,10 @@
         "body_1": {
             "tooltip": false
         },
-        "body_2": {
-            "tooltip": false
-        },
-        "body_3": {
-            "tooltip": false
-        },
-        "body_4": {
-            "tooltip": false
-        },
-        "body_5": {
-            "tooltip": false
-        },
         "body_6": {
             "tooltip": false
         },
         "brain_35": {
-            "tooltip": false
-        },
-        "respiratory_6": {
-            "tooltip": false
-        },
-        "respiratory_7": {
             "tooltip": false
         }
     },
@@ -603,7 +570,7 @@
             "class": "spinal_39"
         },
         "S39_T1": {
-            "class": "spinal_39"
+            "class": "spinal_68"
         },
         "S39_T10": {
             "class": "spinal_39"
@@ -1911,26 +1878,50 @@
         "S51_S4": {
             "class": "spinal_51"
         },
-        "S52_L1": {
+        "S51_L1": {
             "class": "spinal_51"
+        },
+        "S51_L2": {
+            "class": "spinal_51"
+        },
+        "S51_T11": {
+            "class": "spinal_51"
+        },
+        "S51_T12": {
+            "class": "spinal_51"
+        },
+        "S51_T13": {
+            "class": "spinal_51"
+        },
+        "S52_L6": {
+            "class": "spinal_52"
+        },
+        "S52_S1": {
+            "class": "spinal_52"
+        },
+        "S52_S2": {
+            "class": "spinal_52"
+        },
+        "S52_S3": {
+            "class": "spinal_52"
+        },
+        "S52_S4": {
+            "class": "spinal_52"
+        },
+        "S52_L1": {
+            "class": "spinal_52"
         },
         "S52_L2": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T11": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T12": {
-            "class": "spinal_51"
+            "class": "spinal_52"
         },
         "S52_T13": {
-            "class": "spinal_51"
-        },
-        "ganglion_8-1": {
-            "models": "UBERON:0001808",
-            "name": "parasympathetic ganglion",
-            "type": "ganglion",
-            "class": "auto-hide"
+            "class": "spinal_52"
         },
         "ganglion_9-1": {
             "class": "ganglion_9"
@@ -1979,9 +1970,6 @@
         },
         "ganglion_25-1": {
             "class": "ganglion_25"
-        },
-        "ganglion_26-1": {
-            "class": "ganglion_26"
         },
         "ganglion_27-1": {
             "models": "ILX:0795057",
@@ -2061,6 +2049,54 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_40-1": {
+            "models": "UBERON:0002262",
+            "name": "celiac ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_41-1": {
+            "models": "UBERON:0005479",
+            "name": "superior mesenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_42-1": {
+            "models": "ILX:0794730",
+            "name": "aorticorenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_43-1": {
+            "models": "ILX:0794764",
+            "name": "suprarenal ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_44-1": {
+            "models": "ILX:0793821",
+            "name": "prevertebral sympathetic ganglion in abdominal aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_45-1": {
+            "models": "ILX:0795010",
+            "name": "parasympathetic ganglia of the liver",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_46-1": {
+            "models": "ILX:0795056",
+            "name": "intramural ganglion of the kidney",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_46-2": {
+            "models": "ILX:0795056",
+            "name": "intramural ganglion of the kidney",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2104,7 +2140,8 @@
             "class": "brain_9"
         },
         "brain_1-1": {
-            "class": "brain_1"
+            "class": "brain_1",
+            "unrouted": true
         },
         "brain_1-2": {
             "class": "brain_1"
@@ -2217,6 +2254,12 @@
         "brain_51-1": {
             "class": "brain_51"
         },
+        "brain_52-1": {
+            "class": "brain_52"
+        },
+        "brain_53-1": {
+            "class": "brain_53"
+        },
         "brain_54-1": {
             "class": "brain_54"
         },
@@ -2228,6 +2271,15 @@
         },
         "brain_57-1": {
             "class": "brain_57"
+        },
+        "brain_58-1": {
+            "class": "brain_58"
+        },
+        "brain_59-1": {
+            "class": "brain_59"
+        },
+        "brain_60-1": {
+            "class": "brain_60"
         },
         "brain_6-1": {
             "class": "brain_6"
@@ -2253,32 +2305,17 @@
         "cardio_16-1": {
             "class": "cardio_16"
         },
-        "cardio_18-1": {
-            "class": "cardio_18"
-        },
         "cardio_19-1": {
             "class": "cardio_19"
         },
         "cardio_2-1": {
             "class": "cardio_2"
         },
-        "cardio_20-1": {
-            "class": "cardio_20"
-        },
         "cardio_21-1": {
             "class": "cardio_21"
         },
-        "cardio_22-1": {
-            "class": "cardio_22"
-        },
-        "cardio_23-1": {
-            "class": "cardio_23"
-        },
         "cardio_24-1": {
             "class": "cardio_24"
-        },
-        "cardio_25-1": {
-            "class": "cardio_25"
         },
         "cardio_27-1": {
             "class": "cardio_27"
@@ -2309,18 +2346,6 @@
         },
         "cardio_3-1": {
             "class": "cardio_3"
-        },
-        "cardio_30-1": {
-            "class": "cardio_30"
-        },
-        "cardio_31-1": {
-            "class": "cardio_31"
-        },
-        "cardio_33-1": {
-            "class": "cardio_33"
-        },
-        "cardio_34-1": {
-            "class": "cardio_34"
         },
         "cardio_35-1": {
             "class": "cardio_35"
@@ -2634,6 +2659,22 @@
         "digestive_112-1": {
             "class": "digestive_112"
         },
+        "digestive_119-1": {
+            "models": "UBERON:0001172",
+            "name": "hepatic acinus"
+        },
+        "digestive_120-1": {
+            "models": "UBERON:0001281",
+            "name": "hepatic sinusoid"
+        },
+        "digestive_121-1": {
+            "models": "UBERON:0004647",
+            "name": "liver lobule"
+        },
+        "digestive_122-1": {
+            "models": "UBERON:0006729",
+            "name": "liver perisinusoidal space"
+        },
         "endocrine_2-1": {
             "class": "endocrine_2"
         },
@@ -2647,12 +2688,10 @@
             "class": "endocrine_5"
         },
         "bladder_nerve": {
-            "class": "keast_1",
             "type": "nerve",
             "models": "ILX:0793559"
         },
         "pudendal_n": {
-            "class": "keast_2",
             "type": "nerve",
             "models": "UBERON:0011390"
         },
@@ -2660,12 +2699,10 @@
             "class": "ganglion_4"
         },
         "pelvic_splanchnic": {
-            "class": "keast_4",
             "type": "nerve",
             "models": "UBERON:0018675"
         },
         "hypogastric": {
-            "class": "keast_5",
             "type": "nerve",
             "models": "UBERON:0005303"
         },
@@ -2673,7 +2710,6 @@
             "class": "ganglion_5"
         },
         "lumbar_splanchnic": {
-            "class": "keast_7",
             "type": "nerve",
             "models": "UBERON:0018683"
         },
@@ -2773,16 +2809,7 @@
         "reproductive_20-1": {
             "class": "reproductive_20"
         },
-        "reproductive_21-1": {
-            "class": "reproductive_21"
-        },
         "reproductive_22-1": {
-            "class": "reproductive_22"
-        },
-        "reproductive_22-2": {
-            "class": "reproductive_22"
-        },
-        "reproductive_22-3": {
             "class": "reproductive_22"
         },
         "reproductive_23-1": {
@@ -3479,9 +3506,6 @@
         "spinal_69-1": {
             "class": "spinal_69"
         },
-        "urinary_10-1": {
-            "class": "urinary_10"
-        },
         "urinary_11-1": {
             "class": "urinary_11"
         },
@@ -3542,14 +3566,71 @@
         "urinary_19-1": {
             "class": "urinary_19"
         },
+        "urinary_19-2": {
+            "class": "urinary_19"
+        },
         "urinary_21-1": {
+            "class": "urinary_21"
+        },
+        "urinary_21-2": {
             "class": "urinary_21"
         },
         "urinary_22-1": {
             "class": "urinary_22"
         },
+        "urinary_22-2": {
+            "class": "urinary_22"
+        },
         "urinary_23-1": {
             "class": "urinary_23"
+        },
+        "urinary_25-1": {
+            "models": "UBERON:0002303",
+            "name": "juxtaglomerular apparatus"
+        },
+        "urinary_25-2": {
+            "models": "UBERON:0002303",
+            "name": "juxtaglomerular apparatus"
+        },
+        "urinary_27-1": {
+            "models": "UBERON:0001224",
+            "name": "renal pelvis"
+        },
+        "urinary_27-2": {
+            "models": "UBERON:0001224",
+            "name": "renal pelvis"
+        },
+        "urinary_28-1": {
+            "models": "UBERON:0003517",
+            "name": "kidney blood vessel"
+        },
+        "urinary_28-2": {
+            "models": "UBERON:0003517",
+            "name": "kidney blood vessel"
+        },
+        "urinary_31-1": {
+            "models": "UBERON:0001225",
+            "name": "cortex of kidney"
+        },
+        "urinary_31-2": {
+            "models": "UBERON:0001225",
+            "name": "cortex of kidney"
+        },
+        "urinary_32-1": {
+            "models": "UBERON:0009773",
+            "name": "renal tubule"
+        },
+        "urinary_32-2": {
+            "models": "UBERON:0009773",
+            "name": "renal tubule"
+        },
+        "urinary_33-1": {
+            "models": "UBERON:0006851",
+            "name": "renal cortex peritubular capillary"
+        },
+        "urinary_33-2": {
+            "models": "UBERON:0006851",
+            "name": "renal cortex peritubular capillary"
         },
         "ganglion_1-1": {
             "class": "ganglion_1"
@@ -3584,9 +3665,6 @@
         "plexus_12-1": {
             "class": "plexus_12"
         },
-        "plexus_13-1": {
-            "class": "plexus_13"
-        },
         "plexus_14-1": {
             "class": "plexus_14"
         },
@@ -3614,9 +3692,21 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_22-1": {
+            "models": "ILX:0795340",
+            "name": "celiac periarterial nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "plexus_24-1": {
             "models": "ILX:0793704",
             "name": "Esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_25-1": {
+            "models": "ILX:0797430",
+            "name": "nerve plexus along the left precaval vein",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -3626,9 +3716,27 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
-        "plexus_25-1": {
-            "models": "ILX:0797430",
-            "name": "nerve plexus along the left precaval vein",
+        "plexus_32-1": {
+            "models": "UBERON:0035772",
+            "name": "aortic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_33-1": {
+            "models": "UBERON:0002010",
+            "name": "celiac nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_34-1": {
+            "models": "UBERON:0005488",
+            "name": "superior mesenteric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_35-1": {
+            "models": "UBERON:0018676",
+            "name": "renal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -3686,9 +3794,6 @@
         "label_22-1": {
             "class": "label_22"
         },
-        "label_23-1": {
-            "class": "label_23"
-        },
         "label_24-1": {
             "class": "label_24"
         },
@@ -3725,6 +3830,13 @@
         "label_35-1": {
             "class": "label_35"
         },
+        "label_36-1": {
+            "class": "label_36"
+        },
+        "urethral_sphincter": {
+            "models": "UBERON:0004917",
+            "name": "urethral sphincter"
+        },
         "CNVII_c": {
             "type": "nerve",
             "models": "UBERON:0001647"
@@ -3759,11 +3871,11 @@
         },
         "vagus_2": {
             "type": "nerve",
-            "models": "ILX:0786624"
+            "models": "ILX:0794142"
         },
         "vagus_3": {
             "type": "nerve",
-            "models": "ILX:0791151"
+            "models": "ILX:0794141"
         },
         "vagus_4": {
             "type": "nerve",
@@ -4052,11 +4164,11 @@
         },
         "ICG-T1_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793233"
+            "models": "ILX:0738291"
         },
         "MCG-ICG_sympathetic_cord_c": {
             "type": "nerve",
-            "models": "ILX:0793234"
+            "models": "ILX:0738290"
         },
         "lacrimal_zygomatic_c": {
             "type": "nerve",
@@ -4126,6 +4238,55 @@
             "type": "nerve",
             "models": "ILX:0793822"
         },
+        "splenic_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793563"
+        },
+        "mesenteric_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0793714"
+        },
+        "thoracic_splanchnic_nerve_c": {
+            "models": "UBERON:0018679",
+            "name": "thoracic splanchnic nerve",
+            "type": "nerve"
+        },
+        "esophageal_vagus_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0794853"
+        },
+        "abdominal_branch_of_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0794473"
+        },
+        "posterior_abdominal_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0793827"
+        },
+        "anterior_abdominal_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0793826"
+        },
+        "posterior_hepatic_branch_of_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0794506"
+        },
+        "celiac_branch_of_posterior_vagal_trunk_c": {
+            "type": "nerve",
+            "models": "ILX:0789580"
+        },
+        "hepatic_branch_of_left_vagus_nerve_c": {
+            "type": "nerve",
+            "models": "ILX:0790553"
+        },
+        "ansa_subclavia_c": {
+            "type": "nerve",
+            "models": "ILX:0739241"
+        },
+        "thoracic_sympathetic_nerve_trunk_c": {
+            "type": "nerve",
+            "models": "UBERON:0004863"
+        },
         "n_77_c": {
             "type": "nerve"
         },
@@ -4168,7 +4329,7 @@
                 },
                 {
                     "id": "MCG-ICG_sympathetic_cord",
-                    "models": "ILX:0793234",
+                    "models": "ILX:0738290",
                     "connects": [
                         "ganglion_9-1",
                         "ganglion_10-1"
@@ -4176,7 +4337,7 @@
                 },
                 {
                     "id": "ICG-T1_sympathetic_cord",
-                    "models": "ILX:0793233",
+                    "models": "ILX:0738291",
                     "connects": [
                         "ganglion_10-1",
                         "S46_T1"
@@ -6200,20 +6361,6 @@
                     ]
                 },
                 {
-                    "id": "bolser_11",
-                    "connects": [
-                        "brain_12-1",
-                        "point_49"
-                    ]
-                },
-                {
-                    "id": "bolser_31",
-                    "connects": [
-                        "vagus_point_6",
-                        "point_49"
-                    ]
-                },
-                {
                     "id": "medulla_1",
                     "connects": [
                         "brain_33-1",
@@ -6431,22 +6578,6 @@
                     ],
                     "contained-in": [
                         "plexus_12-1"
-                    ]
-                },
-                {
-                    "id": "tympanic",
-                    "models": "UBERON:0036216",
-                    "connects": [
-                        "ganglion_12-1",
-                        "plexus_13-1"
-                    ]
-                },
-                {
-                    "id": "less_pet",
-                    "models": "ILX:0793722",
-                    "connects": [
-                        "plexus_13-1",
-                        "point_50"
                     ]
                 },
                 {
